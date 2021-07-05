@@ -2,7 +2,7 @@ package com.edu.algorithm;
 
 import java.util.Scanner;
 
-public class Main15_2 { // 10950 A+B-3
+public class Main15_2 { // 10950 A + B (3)
     public static void main(String args[]) {
 
         Scanner scan = new Scanner(System.in);
