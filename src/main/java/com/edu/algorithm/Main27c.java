@@ -3,7 +3,7 @@ package com.edu.algorithm;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main27 { // 15552 빠른 A + B
+public class Main27c { // 15552 빠른 A + B
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

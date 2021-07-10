@@ -2,7 +2,7 @@ package com.edu.algorithm;
 
 import java.util.Scanner;
 
-public class Main30 { // 2577 숫자의 개수
+public class Main30h { // 2577 숫자의 개수
     public static void main(String args[]) throws Exception {
 
         Scanner sc = new Scanner(System.in);
