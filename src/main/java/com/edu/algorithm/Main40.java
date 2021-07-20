@@ -20,7 +20,7 @@ public class Main40 { // 1712 손익분기점
             return;
         }
 
-        if (C - B < 0){
+        if (C - B <= 0){
             System.out.println("-1");
         } else {
             System.out.println(A / (C - B) + 1);

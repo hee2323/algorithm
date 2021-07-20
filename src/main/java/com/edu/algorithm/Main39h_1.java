@@ -18,13 +18,6 @@ public class Main39h_1 { // 1157 단어공부 / 아스키코드X 반복문 1번�
             alpha[cnt]++;
         }
 
-//        for (int i = 0; i < 26; i++) {
-//            if(alpha[i] > max) {
-//                max = alpha[i];
-//                System.out.println("?");
-//            } else {
-//                System.out.println((char)(Max_alpha + 65));
-//            }
-//        }
+
     }
 }
